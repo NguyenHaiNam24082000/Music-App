@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/custom_seekbar.xml" value="0.26614583333333336" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/custom_thumb.xml" value="0.26614583333333336" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/ic_audiotrack.xml" value="0.15052083333333333" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/ic_baseline_pause_24.xml" value="0.15052083333333333" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.15052083333333333" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/ic_baseline_skip_next_24.xml" value="0.15052083333333333" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/ic_baseline_skip_previous_24.xml" value="0.15052083333333333" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/ic_more_vert.xml" value="0.14322916666666666" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/ic_pause.xml" value="0.15052083333333333" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/ic_play_arrow.xml" value="0.15052083333333333" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/ic_skip_next.xml" value="0.14322916666666666" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/ic_skip_previous.xml" value="0.14322916666666666" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/round_back_10.xml" value="0.26614583333333336" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/drawable/round_back_blue_10.xml" value="0.26614583333333336" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Workspace/Android/MusicPlayer/app/src/main/res/layout/music_adapter_layout.xml" value="0.3278985507246377" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
